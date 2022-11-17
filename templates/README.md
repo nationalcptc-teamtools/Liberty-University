@@ -1,1 +1,1 @@
-Where templates for competition will go. 
+# Where templates for competition will go. 
