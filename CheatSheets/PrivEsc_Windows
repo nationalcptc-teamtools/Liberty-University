@@ -35,7 +35,7 @@ runas /<password> /user:admin cmd.exe
 
 IIS Config
 
-SeImpersonate Privivilege = PrintSpoofer.exe
+SeImpersonatePrivilege = PrintSpoofer.exe
 
     C:\inetpub\wwwroot\web.config
     C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Config\web.config
