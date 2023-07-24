@@ -73,4 +73,4 @@ use winPEAS to scan for priv esc vectors
 
 Metasploit- multi/recon/local_exploit_suggester: can list priv esc methods to try out
 
-From WinPEAS - look to see if you can modify Services that are ran by admin > upload reverse shell
+From WinPEAS - Unquoted Service Paths > look to see if you can modify Services that are ran by admin > upload reverse shell
